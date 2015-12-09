@@ -1,0 +1,16 @@
+{
+  "name": "react-native-simplemenu-android",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q-m/react-native-simplemenu-android.git"
+  },
+  "version": "0.1.0",
+  "description": "React Native module for showing a basic menu on Android.",
+  "author": "wvengen <willem@thequestionmark.org>",
+  "nativePackage": true,
+  "keywords": [
+    "react",
+    "native",
+    "react-native"
+  ]
+}
