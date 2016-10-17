@@ -6,6 +6,10 @@ Basic react-native package for showing an menu based on
 
 This can be used as a replacement for `ActionSheetIOS.showActionSheetWithOptions`.
 
+**Important note:** this is not the recommended way anymore to show a popup-menu on Android.
+[Use UIManager.showPopupMenu](https://github.com/facebook/react-native/issues/3004#issuecomment-202598006) instead,
+and hope that an official API will appear someday.
+
 
 Install
 -------
